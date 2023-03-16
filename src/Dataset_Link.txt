@@ -1,0 +1,2 @@
+Training dataset link: https://makeml.app/datasets/mask
+Test dataset link: https://github.com/cabani/MaskedFace-Net
